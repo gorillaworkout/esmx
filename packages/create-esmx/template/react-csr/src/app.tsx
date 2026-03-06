@@ -1,4 +1,3 @@
-import React from 'react';
 import HelloWorld from './components/hello-world';
 import './app.css';
 
